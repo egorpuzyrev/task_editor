@@ -1,0 +1,16 @@
+.node_frame_active {
+    border-radius: 10px;
+    background-color: #428FDD;
+}
+
+.node_frame_inactive {
+    border-radius: 10px;
+/*    background-color: #DD4254;*/
+    background-color: #F9A237;
+}
+
+.node_frame_label {
+    background-color: #37F964;
+    border-radius: 5px;
+    color: #000000;
+}
